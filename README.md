@@ -1,1 +1,1 @@
-Crud básico utilizando Java 21 e Spring Boot 3, conectando ao banco de dados não relacional MongoDB
+Crud básico utilizando Java 21, Spring Boot 3, Swagger e conectando ao banco de dados MongoDB.
